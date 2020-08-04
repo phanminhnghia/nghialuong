@@ -1,6 +1,7 @@
 # simple
 
 A new Flutter project.
+The main code was save on lib.
 
 ## Getting Started
 
